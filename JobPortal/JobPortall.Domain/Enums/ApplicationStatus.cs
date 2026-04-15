@@ -1,6 +1,6 @@
 ﻿namespace JobPortal.JobPortall.Domain.Enums
 {
-    public enum Status
+    public enum ApplicationStatus
     {
         Applied,
         Interviewing,
